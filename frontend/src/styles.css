@@ -1,0 +1,8 @@
+body{font-family: Arial, Helvetica, sans-serif;margin:0;background:#141414;color:#fff}
+.header{background:#111;padding:16px}
+.app h1{margin:0}
+.grid{display:flex;flex-wrap:wrap;gap:16px;padding:16px}
+.card{background:#222;padding:12px;border-radius:8px;width:360px}
+button{background:#e50914;border:none;color:white;padding:8px 12px;border-radius:4px;cursor:pointer}
+button:disabled{opacity:.6}
+video{display:block;margin-top:8px;max-width:100%}
